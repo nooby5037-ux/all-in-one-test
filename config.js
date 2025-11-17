@@ -1,7 +1,7 @@
 module.exports = {
   OWNER_IDS: ["1390359076533305387"], // Bot owner ID's
   SUPPORT_SERVER: "https://dsc.gg/codexdev", // Your bot support server
-  CLIENT_ID: "1168170696493510826",
+  CLIENT_ID: "1439816857040195604",
   VOTE: "https://dsc.gg/codexdev",
   PREFIX_COMMANDS: {
     ENABLED: true, // Enable/Disable prefix commands
